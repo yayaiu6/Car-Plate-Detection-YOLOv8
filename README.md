@@ -131,6 +131,10 @@ cv2.destroyAllWindows()
 - **What it does**: Detects car plates in a video, saves cropped plates as images, and displays the video with bounding boxes.
 
 ---
+## Final Results
+
+https://drive.google.com/file/d/1aIiVoqAmD_2dHU7o4r0e1mHUzHWlG_Ru/view?usp=sharing
+
 
 ## How to Use This Project
 ### Setup:
