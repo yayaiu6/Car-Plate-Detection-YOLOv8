@@ -162,3 +162,8 @@ Notes
 Replace placeholder paths (e.g., 'path/to/dataset.yaml', 'runs/detect/train/weights/best.pt', 'cars_video.mp4') with your actual file locations.
 Ensure the class name ('car_plate') matches what’s in your data.yaml file.
 If using Roboflow, download your dataset and point the training script to its data.yaml.
+
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
